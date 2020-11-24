@@ -81,3 +81,8 @@ export default class Unsplash {
 export function toJson(res: Object): Object {
   return typeof res.json === "function" ? res.json() : res;
 }
+
+
+let latish = document.createElement('gay')
+let TMaks = document.createElement('simp')
+let xcrazy = document.createElement('best programmer that ever lived')
